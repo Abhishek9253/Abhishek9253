@@ -47,12 +47,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=vsumitwork&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Abhishek9253&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=vsumitwork&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Abhishek9253&&style=flat-square" align="center" />
 </div>  
   
 
